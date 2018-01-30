@@ -26,7 +26,7 @@ def Articles():
 
 		{
 			'id':4,
-			'title':'article four',
+			'title':'article Four',
 			'body':'Lorem ipsum dolor sit amet,consescr adikdsak elit, dsae to dsads dsad dd',
 			'author':'Brad Tom',
 			'create_date':'2018-01-28'
