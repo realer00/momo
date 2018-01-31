@@ -37,6 +37,13 @@ def Articles():
 			'body':'Lorem ipsum dolor sit amet,consescr adikdsak elit, dsae to dsads dsad dd',
 			'author':'Brad Tom',
 			'create_date':'2018-01-28'
+		},
+		{
+			'id':6,
+			'title':'article Six',
+			'body':'Lorem ipsum dolor sit amet,consescr adikdsak elit, dsae to dsads dsad dd',
+			'author':'Brad Tom',
+			'create_date':'2018-01-28'
 		}
 	]
 	return articles
